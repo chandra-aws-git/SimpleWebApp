@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Teja is a nice Guy</h1>
+         <h1> checked GitHub hook trigger for GITScm polling</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
